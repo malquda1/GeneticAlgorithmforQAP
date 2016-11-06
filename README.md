@@ -1,3 +1,3 @@
 # GeneticAlgorithmforQAP
-By Mohammad Alqdudah 
+By Mohammad Alqudah 
 Mohammad.al.qudah@hotmail.com
