@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;GeneticAlgorithm/src/defult/hw3two.java&apos; to &apos;GeneticAlgorithmForQAP.java&apos;" description="Rename resource &apos;hw3two.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/defult/hw3two.java" name="GeneticAlgorithmForQAP.java" stamp="1478448468306" updateReferences="true"/>
+</session>
