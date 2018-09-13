@@ -2,7 +2,7 @@
 
 Eclipse project: Dependency libraries are not included with this project
 
-By Mohammad ALqudah 2016
+By Mohammad Alqudah 2016
 
 Read LICENSE before use
 
